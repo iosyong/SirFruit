@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  SirFruit
+//
+//  Created by yong on 15/10/22.
+//  Copyright © 2015年 iosYong. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "UIView+Extension.h"
+#import "WKDefine.h"
+#import "WKEnum.h"
+#import "GlobalFunction.h"
+#import "JSONKit.h"
+
+#endif /* PrefixHeader_pch */
